@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prem Sharma</h1>
+<h3 align="center">AI & Machine Learning Explorer</h3>
 
-<!--
-**someshgajendra94-tech/someshgajendra94-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 BTech Computer Science Student  
+- 🤖 Passionate about AI & ML  
+- 📚 Currently learning Advanced Python & ML  
+- 🛠 Building real-world projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+Python | C++ | OpenCV | YOLO | TensorFlow | Git
+
+---
+
+## 📌 Featured Projects
+- 🌲 Forest Escape Game (Python, Tkinter)
+- 🚗 Vehicle Detection System (YOLO + OpenCV)
+
+---
+
+## 📊 GitHub Stats
