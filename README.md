@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prem Sharma</h1>
+<h1 align="center">Hi 👋, I'm Somesh gajendra</h1>
 <h3 align="center">AI & Machine Learning Explorer</h3>
 
 ---
